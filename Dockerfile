@@ -1,2 +1,2 @@
 From httpd
-COPY index.html /usr/local/apache2/htdocs
+COPY index_pipe.html /usr/local/apache2/htdocs
